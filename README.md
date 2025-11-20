@@ -123,5 +123,5 @@ This project provides actionable insights into the bike shop's performance and o
 
 
 ## Authors
-[![Owais Farooqui | Analyst & Data Science Enthusiast](https://img.shields.io/badge/Owais_Farooqui-Analyst_&_Data_Science-1F425F?style=flat&logo=tableau&logoColor=white)](https://github.com/Strik3r10)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais-farooqui-942281256/)
+[![Owais Farooqui](https://img.shields.io/badge/Owais_Farooqui-0A2540?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Strik3r10)
+[![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais-farooqui-942281256/)
