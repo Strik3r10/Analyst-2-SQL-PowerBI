@@ -14,6 +14,8 @@ Below is a preview of the dashboard created for the Bike Store project:
 
 ![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Bike%20Data%20Analysis%20(SQl%2BPowerbi)/Dashboard.png)
 
+![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Bike%20Data%20Analysis%20(SQl%2BPowerbi)/Dashboard1.png)
+
 ## Tools and Technologies
 
 - **SQL**: For data cleaning, transformation, and analysis.
@@ -62,15 +64,15 @@ Below is a preview of the dashboard created for the Bike Store project:
 ## Key Findings
 
 1. **When Are We Making Money?**
-   - Higher earnings occur during midday and early evening hours (10:00 AM to 3:00 PM).
-   - Wednesday and Friday show significantly higher sales.
+   - Peak earnings occur during early evening hours, specifically between 5:00 PM and 7:00 PM, with total peak-hour revenue of $1.55M.
+   - Peak-hour revenue is approximately 23% higher than average hourly revenue.
 
 2. **Revenue by Season:**
-   - Season 2 generated the highest revenue, followed by Season 1.
+   - Season 3 generated the highest revenue (~$4.9M), followed by Season 2 (~$4.2M).
 
 3. **Rider Demographics:**
-   - Registered users contribute to 81.17% of total revenue.
-   - Casual riders make up 18.83% of total revenue.
+   - Registered users contribute ~81.26% of total revenue.
+   - Registered riders generate ~4× more profit per trip than casual riders.
 
 4. **KPI Summary:**
    - Total Riders: 3 Million
@@ -89,25 +91,28 @@ Below is a preview of the dashboard created for the Bike Store project:
 
 2. **Segmented Pricing Strategy:**
    - Introduce separate pricing strategies for casual and registered riders based on their sensitivity to price changes.
+   - Offer membership perks to convert high-usage casual riders to the registered category.
 
 3. **Monitor and Adjust:**
    - Monitor customer feedback and sales data closely after implementing price changes to make necessary adjustments.
 
 4. **Focus on Peak Hours:**
-   - Optimize resources and staff availability during peak revenue hours (10:00 AM to 3:00 PM).
+   - Optimize staffing, inventory, and marketing spend during peak revenue hours (5:00 PM to 7:00 PM).
+   - Monetize high-demand hours through dynamic pricing, with expected uplift of $1.5M–$2.5M annually.
 
 ---
 
 ## Files in the Repository
 
-1. **SQL Queries:**
-   - All SQL scripts used for data preparation and analysis.
-
-2. **CSV Files:**
-   - Exported query results for use in Power BI.
-
-3. **Power BI Dashboard:**
-   - .pbix file containing the interactive dashboard.
+| File | Description |
+|------|-------------|
+| `bike_share_yr_0.csv`, `bike_share_yr_1.csv` | Raw yearly datasets |
+| `cost_table.csv` | Cost & pricing table |
+| `Cleaned_data.csv` | Final cleaned dataset |
+| `SQL Query.sql` | SQL transformation logic |
+| `Bike Data Analysis.pbix` | Power BI dashboard |
+| `Dashboard.png`, `Cycle Imge.png` | Dashboard preview screenshots |
+| `README.md` | Documentation |
 
 
 ---
@@ -115,3 +120,8 @@ Below is a preview of the dashboard created for the Bike Store project:
 ## Conclusion
 
 This project provides actionable insights into the bike shop's performance and offers strategies to enhance revenue and profitability. The interactive dashboard allows stakeholders to explore data trends and make data-driven decisions effectively.
+
+
+## Authors
+[![Owais Farooqui | Analyst & Data Science Enthusiast](https://img.shields.io/badge/Owais_Farooqui-Analyst_&_Data_Science-1F425F?style=flat&logo=tableau&logoColor=white)](https://github.com/Strik3r10)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais-farooqui-942281256/)
