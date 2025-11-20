@@ -14,7 +14,7 @@ Below is a preview of the dashboard created for the Bike Store project:
 
 ![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Bike%20Data%20Analysis%20(SQl%2BPowerbi)/Dashboard.png)
 
-![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Bike%20Data%20Analysis%20(SQl%2BPowerbi)/Dashboard1.png)
+![Dashboard Preview](https://github.com/Strik3r10/Analyst-2-SQL-PowerBI/blob/main/Dashboard1.png)
 
 ## Tools and Technologies
 
